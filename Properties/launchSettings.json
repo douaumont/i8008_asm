@@ -1,8 +1,7 @@
 {
   "profiles": {
     "i8008_asm": {
-      "commandName": "Project",
-      "commandLineArgs": "PortsTest.txt"
+      "commandName": "Project"
     }
   }
 }
